@@ -1,0 +1,220 @@
+{
+  "user": [
+    {
+      "name": "pradeep lodha",
+      "email": "pradeeplodha95@gmail.com",
+      "password": "pradeep123",
+      "mobile": "09998816574",
+      "gender": "Male",
+      "country": "India",
+      "id": "1694701039038",
+      "": "Jainish Patel",
+      "status": "Unblock",
+      "updated_at": " 📅 29/10/2023 ⌚ 19:41"
+    },
+    {
+      "name": "jyotindra",
+      "email": "jyotindra@gmail.com",
+      "password": "jyotindra123",
+      "mobile": "9876543210",
+      "gender": "Male",
+      "country": "India",
+      "id": "1694711668130",
+      "status": "Unblock"
+    },
+    {
+      "name": "raja",
+      "email": "raja@gmail.com",
+      "password": "raja12",
+      "mobile": "3456789012",
+      "gender": "Male",
+      "country": "India",
+      "id": "1695309354644",
+      "status": "Unblock"
+    },
+    {
+      "name": "rj",
+      "email": "rj@gmail.com",
+      "password": "rj12",
+      "mobile": "4567890123",
+      "gender": "Male",
+      "country": "India",
+      "id": "1695309419989",
+      "status": "Unblock"
+    },
+    {
+      "id": "1710492249891",
+      "name": "pradeep lodha",
+      "email": "pradeeplodha95@gmail.com",
+      "password": "Jainish123",
+      "mobile": "1231445",
+      "gender": "Male",
+      "country": "India",
+      "status": "Unblock",
+      "created_at": " 📅 15/3/2024 ⌚ 14:14"
+    },
+    {
+      "id": "1710492295563",
+      "name": "pradeep lodha",
+      "email": "pradeeplodha@gmail.com",
+      "password": "123",
+      "mobile": "123",
+      "gender": "Male",
+      "country": "India",
+      "status": "Unblock",
+      "created_at": " 📅 15/3/2024 ⌚ 14:14"
+    },
+    {
+      "id": "1710569963435",
+      "name": "raj",
+      "email": "pradeeplodha@gmail.com",
+      "password": "123",
+      "mobile": "09998816574",
+      "gender": "Male",
+      "country": "Dubai",
+      "status": "Unblock",
+      "created_at": " 📅 16/3/2024 ⌚ 11:49"
+    },
+    {
+      "id": "1711089587569",
+      "name": "mayur",
+      "email": "mayuradmin@gmail.com",
+      "password": "adminpradeep123",
+      "mobile": "123",
+      "gender": "Male",
+      "country": "Switzerland",
+      "status": "Unblock",
+      "created_at": " 📅 22/3/2024 ⌚ 12:9"
+    },
+    {
+      "id": "1711090533384",
+      "name": "Pradeep",
+      "email": "pradeepadmin@gmail.com",
+      "password": "adminpradeep123",
+      "mobile": "121",
+      "gender": "Male",
+      "country": "Canada",
+      "status": "Unblock",
+      "created_at": " 📅 22/3/2024 ⌚ 12:25"
+    },
+    {
+      "id": "1712055200589",
+      "name": "pradeep lodha",
+      "email": "pradeeplodha95@gmail.com",
+      "password": "123",
+      "mobile": "09998816574",
+      "gender": "Male",
+      "country": "Switzerland",
+      "status": "Unblock",
+      "created_at": " 📅 2/4/2024 ⌚ 16:23"
+    },
+    {
+      "id": "1712055757963",
+      "name": "pradeep lodha",
+      "email": "pradeeplodha95@gmail.com",
+      "password": "123",
+      "mobile": "09998816574",
+      "gender": "Male",
+      "country": "India",
+      "status": "Unblock",
+      "created_at": " 📅 2/4/2024 ⌚ 16:32"
+    },
+    {
+      "id": "1712056629396",
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "password": "123",
+      "mobile": "122",
+      "gender": "Male",
+      "country": "Canada",
+      "status": "Unblock",
+      "created_at": " 📅 2/4/2024 ⌚ 16:47"
+    },
+    {
+      "id": "1712057195908",
+      "name": "jay1",
+      "email": "jay@gmail.com",
+      "password": "123",
+      "mobile": "123",
+      "gender": "Male",
+      "country": "Dubai",
+      "status": "Unblock",
+      "created_at": " 📅 2/4/2024 ⌚ 16:56"
+    },
+    {
+      "id": "1712057538812",
+      "name": "raja",
+      "email": "raja@gmail.com",
+      "password": "123",
+      "mobile": "122",
+      "gender": "Male",
+      "country": "India",
+      "status": "Unblock",
+      "created_at": " 📅 2/4/2024 ⌚ 17:2"
+    },
+    {
+      "id": "1724173345946",
+      "name": "pradeep lodha",
+      "email": "1@gmail.com",
+      "password": "1",
+      "mobile": "09998816574",
+      "gender": "Male",
+      "country": "India",
+      "status": "Unblock",
+      "created_at": " 📅 20/8/2024 ⌚ 23:2"
+    }
+  ],
+  "adminuser": [
+    {
+      "id": "1",
+      "name": "pradeep",
+      "email": "pradeepadmin@gmail.com",
+      "mobile": "9876543210",
+      "password": "adminpradeep123"
+    },
+    {
+      "id": "1712059798932",
+      "name": "raman",
+      "email": "rmn@gmail.com",
+      "password": "789",
+      "mobile": "122",
+      "gender": "Male",
+      "country": "Canada",
+      "status": "Unblock",
+      "created_at": " 📅 2/4/2024 ⌚ 17:39"
+    },
+    {
+      "id": "1712061134044",
+      "name": "r",
+      "email": "r@gmail.com",
+      "password": "1",
+      "mobile": "0",
+      "gender": "Male",
+      "country": "Canada",
+      "status": "Unblock",
+      "created_at": " 📅 2/4/2024 ⌚ 18:2"
+    },
+    {
+      "id": "1724172165897",
+      "name": "pradeep lodha",
+      "email": "pradeeplodha95@gmail.com",
+      "password": "123",
+      "mobile": "09998816574",
+      "gender": "Male",
+      "country": "India",
+      "status": "Unblock",
+      "created_at": " 📅 20/8/2024 ⌚ 22:42"
+    },
+    {
+      "id": "1724172288136",
+      "name": "pradeep lodha",
+      "email": "p@gmail.com",
+      "password": "1",
+      "mobile": "09998816574",
+      "gender": "Male",
+      "country": "India",
+      "status": "Unblock",
+      "created_at": " 📅 20/8/2024 ⌚ 22:44"
+    }
+  ]
+}
